@@ -1,1 +1,3 @@
-počítáme has z textu (příjmení)
+## Hash počítadlo
+
+počítáme hash z textu (příjmení)
